@@ -10,11 +10,11 @@
 sudo -s
 ```
 ```
-curl -sSL https://bit.ly/voltsshXUltimate -o inst.sh && bash inst.sh
+curl -sSL https://bit.ly/Pedri136 -o inst.sh && bash inst.sh
 
 ```
 
-<center><img src="https://github.com/prjkt-nv404/voltsshX-Ultimate/raw/main/assets/voltsshXUltimate.png" alt="banner" width="500"/></center>
+<center><img src="https://github.com/Pedri136/raw/main/assets/voltsshXUltimate.png" alt="banner" width="500"/></center>
 
 
 #### Requirement

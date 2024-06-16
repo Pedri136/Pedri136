@@ -20,7 +20,6 @@ curl -sSL https://bit.ly/voltsshXUltimate -o inst.sh && bash inst.sh
 #### Requirement
 - A Linux base System ```VPS```
 - Domain _(eg: udp.voltssh.xyz)_
-- An install key ```❗️``` - through our use [Bot](https://t.me/voltverifybot) 🤏
 - Common sense
 
 #### Script - Supported OS
@@ -75,14 +74,3 @@ curl -sSL https://bit.ly/voltsshXUltimate -o inst.sh && bash inst.sh
   <li><strong>[updated]</strong> Banner email/contact us. ✔︎</li>
 </ul>
 </details>
-
-#### Telegram 
- > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
-
- > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏 🧑‍💻](https://t.me/voltsshx)  ```Admin```
-
- > [📣 LS Tunnel 📣](https://t.me/lstunnel)  ```Channel```
-
-#### Credit
-- All binary owners
-
